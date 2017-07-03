@@ -1,7 +1,7 @@
 # Sparkfun 6DOF
 Arduino/processing code for the sparkfun 6DOF sensor: https://www.sparkfun.com/products/10121
 
-For complete hookup and tutorial see bildr.org: http://bildr.org/2012/03/stable-orientation-digital-imu-6dof-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/6dof
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
